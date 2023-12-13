@@ -1,0 +1,13 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.correcto{
+    background-color: green;
+}
+
+.incorrecto{
+    background-color: red;
+}
